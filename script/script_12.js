@@ -5,7 +5,7 @@ let k_json=[
             {
                 icon: "fa-solid fa-person-dress",
                 id: 1,
-                image: "https://thinkers-pvt.github.io/images/generated_00.png",
+                image: "https://thinkers-pvt.github.io/images-prj/generated_00.png",
                 label: "PERSON 1",
                 name: "PERSON 1",
                 url:""
@@ -13,7 +13,7 @@ let k_json=[
     {
                 icon: "fa-solid fa-user",
                 id: 1,
-                image: "https://thinkers-pvt.github.io/images/generated_02.png",
+                image: "https://thinkers-pvt.github.io/images-prj/generated_02.png",
                 label: "PERSON 2",
                 name: "PERSON 2",
                 url:""
