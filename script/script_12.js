@@ -3,13 +3,22 @@ const url_12 = "";
 let k_json=[ 
              
             {
-                icon: "fa fa-vault",
-                id: 12,
-                image: "",
-                label: "AUTH",
-                name: "AUTH",
+                icon: "fa-solid fa-person-dress",
+                id: 1,
+                image: "https://thinkers-pvt.github.io/images/generated_00.png",
+                label: "PERSON 1",
+                name: "PERSON 1",
                 url:""
-            }];
+            },
+    {
+                icon: "fa-solid fa-user",
+                id: 1,
+                image: "https://thinkers-pvt.github.io/images/generated_02.png",
+                label: "PERSON 2",
+                name: "PERSON 2",
+                url:""
+            }
+];
 
 const Tools = () => {
     const getTools = () => {
@@ -26,5 +35,5 @@ const Tools = () => {
                     React.createElement("i", { className: classNames(tool.icon, "tool-card-icon") }))));
         });
     };
-    return (React.createElement(MenuSection, { icon: "fa-solid fa-solar-system", id: "tools-section", title: "PEOPLE" }, getTools()));
+    return (React.createElement(MenuSection, { icon: "fa-solid fa-solar-system", id: "tools-section", title: "SOCIALIZER" }, getTools()));
 };
