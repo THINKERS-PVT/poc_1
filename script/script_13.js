@@ -25,7 +25,7 @@ let j_json=[
    {
                 desc: "Small Industries Development bank of India funds and caters to different companies like SME/MSME/startups/GOVT Projects funding requirements ",
                 id: 4,
-                image: "https://thinkers-pvt.github.io/images-prj/MudraYojna.webp",
+                image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/SIDBI_LOGO.png",
                 title: "Small Industries Development bank of India (SIDBI)",
             url:"https://www.sidbi.in/en"
             }
