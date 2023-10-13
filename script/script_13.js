@@ -4,21 +4,21 @@ let j_json=[
               {
                 desc: "Black rock Corpoation is a Venture capital company",
                 id: 1,
-                image: "https://thinkers-pvt.github.io/images//BlackRock_wordmark.svg",
+                image: "https://thinkers-pvt.github.io/images-prj//BlackRock_wordmark.svg",
                 title: "BLACK ROCK",
             url:"https://www.blackrock.com/corporate"
             },
    {
                 desc: "Sequoia Capital is a Venture capital company",
                 id: 2,
-                image: "https://thinkers-pvt.github.io/images/Sequoia_Capital_logo.svg",
+                image: "https://thinkers-pvt.github.io/images-prj/Sequoia_Capital_logo.svg",
                 title: "Sequoia Capital",
             url:"https://www.sequoiacap.com/"
             },
      {
                 desc: "Pradhan Mantri Mudra Yojana to boost small companies/SME",
                 id: 3,
-                image: "https://thinkers-pvt.github.io/images/MudraYojna.eps",
+                image: "https://thinkers-pvt.github.io/images-prj/MudraYojna.eps",
                 title: "Pradhan Mantri Mudra Yojana(PMMY)",
             url:"https://www.mudra.org.in/"
             }
