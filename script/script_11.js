@@ -2,11 +2,11 @@
 let n_json=[
 
                  {
-                desc: "",
+                desc: "We are THINKERS PRIVATE LIMITED,Bridge the gap between researchers and investors by providing researchers with the resources they need to develop their business acumen and write a successful grant proposal, and by connecting researchers with investors who are interested in funding innovative research ",
                 id: 1,
-                image: "",
-                title: "",
-                url: ""
+                image: "https://thinkers-pvt.github.io/images/1%200b5QvAKZ9inGUnOHposD2w.jpg",
+                title: "THINKERS PRIVATE LIMITED",
+                url: "https://thinkerrs.com/"
             }
             ];
 
@@ -29,5 +29,5 @@ React.createElement("span", { className: "project-card-desc" }, project.desc))))
 });
 };
 
-    return (React.createElement(MenuSection, { icon: "fa-solid fa-hand-holding-hand", id: "projects-section", scrollable: true, title: " About" }, getProjects()));
+    return (React.createElement(MenuSection, { icon: "fa-solid fa-hand-holding-hand", id: "projects-section", scrollable: true, title: " THINKERS " }, getProjects()));
 };
