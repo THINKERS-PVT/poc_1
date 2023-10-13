@@ -7,6 +7,13 @@ let j_json=[
                 image: "https://www.blackrock.com/blk-corp-assets/cache-1542297736000/images/media-bin/web/global/wordmark/blackrock-logo-nav.svg",
                 title: "BLACK ROCK",
             url:"https://www.blackrock.com/corporate"
+            },
+   {
+                desc: "Black rock Corpoation",
+                id: 2,
+                image: "https://www.blackrock.com/blk-corp-assets/cache-1542297736000/images/media-bin/web/global/wordmark/blackrock-logo-nav.svg",
+                title: "BLACK ROCK",
+            url:"https://www.blackrock.com/corporate"
             }
            
            ];
@@ -25,5 +32,5 @@ React.createElement("span", { className: "restaurant-card-title" }, restaurant.t
 React.createElement("span", { className: "restaurant-card-desc" }, restaurant.desc)))));
 });
 };
-return (React.createElement(MenuSection, { icon: "fas fa-robot", id: "restaurants-section", title: "INVESTOR" }, getRestaurants()));
+return (React.createElement(MenuSection, { icon: "fa-dark fa-chart-mixed-up-circle-currency", id: "restaurants-section", title: "INVESTOR" }, getRestaurants()));
 };
