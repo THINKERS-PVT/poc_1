@@ -16,12 +16,20 @@ let j_json=[
             url:"https://www.sequoiacap.com/"
             },
      {
-                desc: "Pradhan Mantri Mudra Yojana to boost small companies/SME",
+                desc: "Pradhan Mantri Mudra Yojana to boost small companies/SME/MSME",
                 id: 3,
                 image: "https://thinkers-pvt.github.io/images-prj/MudraYojna.webp",
                 title: "Pradhan Mantri Mudra Yojana(PMMY)",
             url:"https://www.mudra.org.in/"
+            },
+   {
+                desc: "Small Industries Development bank of India funds and caters to different companies like SME/MSME/startups/GOVT Projects funding requirements ",
+                id: 4,
+                image: "https://thinkers-pvt.github.io/images-prj/MudraYojna.webp",
+                title: "Small Industries Development bank of India (SIDBI)",
+            url:"https://www.sidbi.in/en"
             }
+ 
 
  
            
