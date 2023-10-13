@@ -15,7 +15,7 @@ const Menu = () => {
                     React.createElement("i", { className: "fa-regular fa-spider-web" }),
                     React.createElement("span", null, "THINKERS PRIVATE LIMITED")),
                 React.createElement(Projects, null),
-                // React.createElement(Restaurants, null),
+                React.createElement(Restaurants, null),
                  React.createElement(Ginel, null),
                 React.createElement(Tools, null),
                 React.createElement(Movies, null)))));
