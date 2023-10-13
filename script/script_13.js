@@ -18,7 +18,7 @@ let j_json=[
      {
                 desc: "Pradhan Mantri Mudra Yojana to boost small companies/SME",
                 id: 3,
-                image: "https://thinkers-pvt.github.io/images-prj/MudraYojna.eps",
+                image: "https://thinkers-pvt.github.io/images-prj/MudraYojna.webp",
                 title: "Pradhan Mantri Mudra Yojana(PMMY)",
             url:"https://www.mudra.org.in/"
             }
