@@ -3,7 +3,7 @@ const url_14 = "";
 let p_json=[ {
                 desc: "MNNIT",
                 id: 6,
-                image: "http://www.mnnit.ac.in/institutelogo/MNNIT%20Logo%20New.jpg",
+                image: "https://thinkers-pvt.github.io/images/mnnit_logo.jpg",
               icon:"fa-duotone fa-screen-users",
                 title: "MNNIT",
             url:"http://www.mnnit.ac.in"
