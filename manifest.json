@@ -1,0 +1,28 @@
+{
+  "short_name": "THINKERS PVT LTD",
+  "name": "THINKERS PRIVATE LIMITED",
+  "icons": [
+    {
+      "src": "https://thinkers-pvt.github.io/poc_1/thinking-boy.gif",
+      "type": "image/gif",
+      "sizes": "512x512"
+    },
+   {
+      "src": "https://thinkers-pvt.github.io/poc_1/thinking-boy.gif",
+      "type": "image/gif",
+      "sizes": "256x256"
+    },
+  {
+      "src": "https://thinkers-pvt.github.io/poc_1/thinking-boy.gif",
+      "type": "image/gif",
+      "sizes": "256"
+    }
+  ],
+  "id": "https://api.thinkerrs.com/endpoint",
+  "start_url": "https://thinkerrs.com/",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3367D6",
+
+}
