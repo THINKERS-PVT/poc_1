@@ -3,9 +3,17 @@ let y_json=[
                    {
               desc:"OPEN AI SCHOLAR",
               id:1,
-              image:"",
+              image:"https://thinkers-pvt.github.io/images/brain-4260689.jpg",
               title:"RESEARCHER 1",
-              url:"https://siddh-kivtechs.github.io/tts_base_1/"
+              url:"jornal_1"
+            },
+  
+                   {
+              desc:"Researcher 2",
+              id:2,
+              image:"https://thinkers-pvt.github.io/images/concept-1868728_1920.jpg",
+              title:"RESEARCHER 2",
+              url:" white paper 2"
             }
            ];
 
